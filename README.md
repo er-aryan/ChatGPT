@@ -9,8 +9,7 @@ The ChatGPT Tweet Sentiment Analyzer is a Python-based tool that utilizes the po
 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/your/repo.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the script: `python sentiment_analysis.py`
+2. Run the script: `python sentiment_analysis.py`
 
 ## Example Output
 Tweet: "Had a great day at the beach with friends! The weather was perfect."
