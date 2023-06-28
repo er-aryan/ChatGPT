@@ -12,7 +12,7 @@ The ChatGPT Tweet Sentiment Analyzer is a Python-based tool that utilizes the po
 2. Run the script: `python sentiment_analysis.py`
 
 ## Example Output
-Tweet: "Had a great day at the beach with friends! The weather was perfect."\n
+Tweet: "Had a great day at the beach with friends! The weather was perfect.",
 Sentiment: Positive
 
 Context:
