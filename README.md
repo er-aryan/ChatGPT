@@ -18,5 +18,5 @@ Sentiment: Positive
 Context: "great day"
 
 
-## Contributing
+## Contribution
 Contributions are welcome! If you have any ideas or improvements, feel free to submit a pull request.
