@@ -20,5 +20,3 @@ Context: "great day"
 
 ## Contributing
 Contributions are welcome! If you have any ideas or improvements, feel free to submit a pull request.
-
-Feel free to customize this markup code according to your project's specific details and requirements.
