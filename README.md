@@ -26,8 +26,8 @@ Context: "great day" 🌞
 Contributions are welcome! If you have any ideas or improvements, feel free to submit a pull request.
 
 ## Result ⚖️🎯
-1.
-![image](https://github.com/er-aryan/ChatGPT/assets/72487339/12f28513-1b99-4c37-9191-7b756dd43aa3)
-2.
-![image](https://github.com/er-aryan/ChatGPT/assets/72487339/268193d8-4f62-494d-b07f-5fc5ff759216)
+1.![image](https://github.com/er-aryan/ChatGPT/assets/72487339/12f28513-1b99-4c37-9191-7b756dd43aa3)
+
+2.![image](https://github.com/er-aryan/ChatGPT/assets/72487339/35c98188-be99-4fd6-989b-30d12bd97f2d)
+
 
